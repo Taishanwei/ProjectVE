@@ -1,4 +1,4 @@
-## Welcome to Project V
+# Welcome to Project V
 
 Language: [中文](https://taishanwei.github.io/ProjectV/) 
 
